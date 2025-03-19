@@ -1,8 +1,9 @@
 package main
 
-import observerpattern "design_pattern/observer_pattern"
+import (
+	factorypattern "design_pattern/factory_pattern"
+)
 
 func main() {
-
-	observerpattern.Run()
+	factorypattern.Run()
 }
