@@ -1,7 +1,7 @@
 package ducks
 
 import (
-	"design_pattern/stratergy/behaviors"
+	"design_pattern/stratergy_pattern/behaviors"
 	"fmt"
 )
 

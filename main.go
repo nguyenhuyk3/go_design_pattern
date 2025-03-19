@@ -1,7 +1,8 @@
 package main
 
-import "design_pattern/stratergy"
+import observerpattern "design_pattern/observer_pattern"
 
 func main() {
-	stratergy.Run()
+
+	observerpattern.Run()
 }

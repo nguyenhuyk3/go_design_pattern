@@ -1,8 +1,8 @@
 package ducks
 
 import (
-	"design_pattern/stratergy/implementations/fly"
-	"design_pattern/stratergy/implementations/quack"
+	"design_pattern/stratergy_pattern/implementations/fly"
+	"design_pattern/stratergy_pattern/implementations/quack"
 )
 
 type DecoyDuck struct {
