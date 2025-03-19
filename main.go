@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import "design_pattern/stratergy"
 
+func main() {
+	stratergy.Run()
 }
