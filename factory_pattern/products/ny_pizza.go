@@ -3,7 +3,8 @@ package products
 import "fmt"
 
 /*
-* This struct will implement the pizza interface in interfaces folder
+* This struct will implement
+* the pizza interface in interfaces folder
  */
 type NYStyleCheesePizza struct {
 	Name string
